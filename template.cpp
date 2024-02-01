@@ -4,9 +4,14 @@ using namespace std;
 #define ll long long int
 #define ull unsigned long long int
 #define MOD 1000000007
-#define precise(n) cout << fixed << setprecision(n) <<
+#define precise(n) fixed << setprecision(n)
 
-void solve() {}
+void solve() {
+  int n, m;
+  cin >> n >> m;
+
+  cout << m / 2 * n;
+}
 
 int main() {
   ios_base::sync_with_stdio(false);
