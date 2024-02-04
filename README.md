@@ -12,6 +12,8 @@ _Here's me trying to master it anyway._
 
 Each folder has C++ codes for respective platforms/online judges. `template.cpp` is how I usually tackle questions on Codeforces and the likes.
 
-## Reference
+## Resources
 
 - [Competitive Programmer's Handbook](https://cses.fi/book.pdf)
+- [NeetCode](https://neetcode.io/roadmap)
+- [Striver's A2Z DSA Sheet (only the Leetcode questions)](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
