@@ -25,3 +25,8 @@ Each folder has C++ codes for respective platforms/online judges. [template.cpp]
 - [Competitive Programmer's Handbook](https://cses.fi/book.pdf)
 - [NeetCode](https://neetcode.io/roadmap)
 - [Striver's A2Z DSA Sheet (only the Leetcode questions)](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+
+## Motivation
+
+- [The unfair way I got good at Leetcode - Dave Burji](https://www.youtube.com/watch?v=GPIuPRqDGG8)
+- [How To Balance Grinding Leetcode with Projects - bigboxSWE](https://www.youtube.com/watch?v=AlaVTA_9b1s)

@@ -1,0 +1,4 @@
+For starters, let’s use the stream input operator >> to read in our list from the file.
+ココロバイブレーション
+Our course is designed to turn you into a C++ developer. You’ll learn core programming concepts while working on five real-world projects.
+https://www.softwaretestinghelp.com/regex-in-cpp/
